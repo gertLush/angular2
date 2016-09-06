@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hi 2
-=======
-hi 2
->>>>>>> a58ecc6d333f8e38afded7781cc4cd402c72fe15
